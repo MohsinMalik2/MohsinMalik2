@@ -29,7 +29,7 @@ and fall apart in week two.
 | --- | --- | --- |
 | **[Store Wala](https://storewala.org)** | Multi-tenant POS, inventory and warehouse SaaS. Barcode POS, multi-location transfers, two-way WooCommerce sync, role-based permissions, 24+ languages, tiered plans. Its own live dashboard reports 10,000+ businesses and 50M+ inventory items managed at 99.9% uptime. | Laravel · MySQL · WooCommerce API · RBAC |
 | **[Buggbear](https://buggbear.com)** | Motion-rich agency studio site with a CMS-backed case study system, so the portfolio updates without a redeploy. | Laravel · GSAP · MySQL |
-| **[F-Class Champion site](https://mohsinnawaz.com)** | Achievement-first site for an internationally decorated F-Class shooting medalist — full medal history, press section, Sponsoo sponsor integration. Custom theme, no page builder. Answers in ~0.9s, finishes loading cold in under 2s (measured against production). | WordPress · Custom theme · PHP · Technical SEO |
+| **[F-Class Champion site](https://mohsinnawaz.com)** | Achievement-first site for an internationally decorated F-Class shooting medalist — full medal history, press section, Sponsoo sponsor integration. Custom. Answers in ~0.9s, finishes loading cold in under 2s (measured against production). | WordPress · Custom · PHP · Technical SEO |
 | **Custom CRM & CMS platforms** | Private client engagements under NDA — a React CRM dashboard built around one sales team's real workflow, and a Laravel content platform architected for daily editorial use at volume. | React · Laravel · MySQL |
 
 Full case studies — problem, approach, stack, outcome — at
